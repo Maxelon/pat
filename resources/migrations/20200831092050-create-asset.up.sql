@@ -1,0 +1,3 @@
+CREATE TABLE asset
+(aid INTEGER PRIMARY KEY,
+description VARCHAR(40));

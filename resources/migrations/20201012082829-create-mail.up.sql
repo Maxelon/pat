@@ -1,0 +1,3 @@
+CREATE TABLE mail
+(mid VARCHAR(80) PRIMARY KEY,
+file VARCHAR(80));

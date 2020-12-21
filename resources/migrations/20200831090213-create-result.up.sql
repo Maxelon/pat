@@ -1,0 +1,16 @@
+CREATE TABLE result
+(rid INTEGER PRIMARY KEY,
+ tag VARCHAR(6),
+ description VARCHAR(30),
+ type VARCHAR(10),
+ status VARCHAR(6),
+ isodate VARCHAR(10),
+ image VARCHAR(20),
+ earth VARCHAR(10),
+ insulation VARCHAR(10),
+ leakage VARCHAR(10),
+ wiring VARCHAR(10),
+ comment VARCHAR(200),
+ inspector VARCHAR(30),
+ bid INTEGER,
+ aid INTEGER);

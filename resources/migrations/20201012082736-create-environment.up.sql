@@ -1,0 +1,3 @@
+CREATE TABLE environment
+(ref VARCHAR(80) PRIMARY KEY,
+val VARCHAR(80));

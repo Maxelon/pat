@@ -1,0 +1,6 @@
+CREATE TABLE batch
+(bid INTEGER PRIMARY KEY,
+file VARCHAR(80),
+lid VARCHAR(4),
+isodate VARCHAR(10),
+count INTEGER);

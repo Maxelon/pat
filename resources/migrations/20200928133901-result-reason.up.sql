@@ -1,0 +1,2 @@
+ALTER TABLE result
+ADD reason VARCHAR(200);
